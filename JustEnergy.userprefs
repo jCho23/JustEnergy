@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{8DC4EF6B-0115-4E01-9245-832A5BB86E02}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.JustEnergy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JustEnergy/Tests.cs">
+    <Files>
+      <File FileName="JustEnergy/AppInitializer.cs" Line="34" Column="23" />
+      <File FileName="JustEnergy/Tests.cs" Line="79" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="JustEnergy" expanded="True">
+            <Node name="JustEnergy" expanded="True">
+              <Node name="JustEnergy" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
